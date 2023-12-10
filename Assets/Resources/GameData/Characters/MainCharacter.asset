@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a88ba69e33d44008c73cdfed8264c91, type: 3}
+  m_Name: MainCharacter
+  m_EditorClassIdentifier: 
+  _name: my_character
+  _movementSpeed: 5
+  _attackSpeed: 0.6
+  _maxHealth: 100
+  _initialDamage: 30
+  _prefab: {fileID: 8659946355692017921, guid: e95278994b4f14f48bb0955c806f61ec, type: 3}

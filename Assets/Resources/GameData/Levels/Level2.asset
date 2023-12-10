@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23af1e39912f407bb11518d4c3e9695e, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  _sceneName: Level2
+  _index: 2
+  _characterDataHolder: {fileID: 11400000, guid: 2270e499382c0e44294c8a6e74000e1a, type: 2}
+  _actions:
+  - _type: 0
+    _delay: 4
+    _objectName: 
+    _enemiesNumber: 1
+    _enemyDataHolder: {fileID: 11400000, guid: a931ec3130f62f14789e5c16aa19bdfb, type: 2}
+  - _type: 0
+    _delay: 3
+    _objectName: 
+    _enemiesNumber: 2
+    _enemyDataHolder: {fileID: 11400000, guid: a931ec3130f62f14789e5c16aa19bdfb, type: 2}
+  - _type: 0
+    _delay: 3
+    _objectName: 
+    _enemiesNumber: 15
+    _enemyDataHolder: {fileID: 11400000, guid: a931ec3130f62f14789e5c16aa19bdfb, type: 2}
